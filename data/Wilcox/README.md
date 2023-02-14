@@ -32,6 +32,15 @@ found on github
 
 I downloaded the json file (fgd\_pp.json) which gives the region of interest.
 
+### Hierarchy
+
+For this I drew on the data from [Wilcox et al.
+(2019)](https://cogsci.mindmodeling.org/2019/papers/0219/). Namely, the data
+found on github [here](https://github.com/wilcoxeg/cogsci_2019)/ 
+
+I downloaded the items.tsv file under the hierarchy directory (for clarity I
+named it hierarchy.tsv).
+
 ### Unboundedness
 
 For this I drew on the data from [Wilcox et al.
