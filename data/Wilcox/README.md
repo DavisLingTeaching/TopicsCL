@@ -5,8 +5,6 @@ to evaluated models in [Wilcox et al. (2022)](https://direct.mit.edu/ling/articl
 
 ## Filler Gap Experiments 
 
-All data conversions are done with convert\_fgd.py
-
 ### Subject Gaps
 
 For this I drew on the data from [Hu et al.
@@ -14,6 +12,6 @@ For this I drew on the data from [Hu et al.
 found on github
 [here](https://github.com/cpllab/syntactic-generalization/tree/master/test_suites).
 
-I downloaded the json file (fgd\_subject.json) which gives the region of interest and the txt file (fgd\_subject.txt) which gives the sentences. I converted the txt file to a simple tsv that will work with my code (fgd\_subject.tsv). 
+I downloaded the json file (fgd\_subject.json) which gives the region of interest.
 
 
